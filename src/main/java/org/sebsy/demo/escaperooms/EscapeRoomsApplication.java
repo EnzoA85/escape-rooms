@@ -7,10 +7,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
 
-/**
- * @author ENI Ecole
- * @version NE PAS MODIFIER LE CODE DE CETTE CLASSE
- */
+
 @SpringBootApplication
 public class EscapeRoomsApplication {
 
